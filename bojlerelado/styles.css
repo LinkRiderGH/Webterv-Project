@@ -1,0 +1,122 @@
+body {
+    background: linear-gradient(to bottom right, beige, whitesmoke);
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.auth {
+    margin: 50px auto auto;
+    background: bisque;
+    border-radius: 25px;
+    border: 2px groove black;
+    padding: 20px;
+    height: 250px;
+    width: 350px;
+    box-shadow: 13px 13px 10px #888888;
+}
+
+.auth label {
+    font-size: x-large;
+    padding: 10px;
+    text-shadow: 1px 1px gray;
+}
+
+.auth input {
+    padding: 10px;
+    background: whitesmoke;
+    width: 90%;
+}
+
+.auth input[type="submit"] {
+    width: 150px;
+    height: 40px;
+    font-size: 15px;
+    text-shadow: 1px 1px gray;
+    background-color: beige;
+    float: right;
+    position: relative;
+    bottom: -15px;
+    right: -5px;
+    display: block;
+    cursor: pointer;
+    transition: background-color 300ms;
+}
+
+.auth input[type="submit"]:hover {
+    background-color: whitesmoke;
+}
+
+#registration {
+    height: 530px;
+}
+
+.links:link {
+    text-decoration: none;
+    color: #4d4d4d;
+}
+
+.links:hover {
+    text-decoration: none;
+    color: #707070;
+}
+
+.links:visited {
+    text-decoration: none;
+    color: #4d4d4d;
+}
+
+.links:active {
+    text-decoration: none;
+    color: #4d4d4d;
+}
+
+#registerbutton {
+    position: relative;
+    bottom: -30px;
+    font-size: 22px;
+}
+
+#homeboxes {
+    justify-content: space-between;
+}
+
+.content-box {
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 0 10px;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
+
+.header {
+    position: sticky;
+    padding: 10px;
+    height: 150px;
+    width: 95%;
+    margin: auto;
+    text-align: center;
+    background: #1abc9c;
+}
+
+#headerimg {
+    float: left;
+}
+
+.header h1 {
+    font-size: 50px;
+    margin-right: auto;
+}
+
+.content {
+}
+
+.footer {
+    padding: 10px;
+    height: 50px;
+    width: 95%;
+    margin: auto;
+    background: #1abc9c;
+    vertical-align: bottom;
+}
