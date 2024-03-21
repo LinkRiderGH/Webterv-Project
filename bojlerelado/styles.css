@@ -92,7 +92,7 @@ body {
 }
 
 .header {
-    position: sticky;
+    position: fixed;
     padding: 10px;
     height: 150px;
     width: 100%;
@@ -128,4 +128,9 @@ body {
 
     left: 0;
     right: 0;
+}
+
+#copyright {
+    position: sticky;
+    margin-left: auto;
 }
