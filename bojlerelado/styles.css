@@ -4,15 +4,17 @@ body {
     margin: 0;
     padding: 0;
     height: 100%;
+
+    font-family: "Verdana", sans-serif;
 }
 
 .auth {
-    margin: 50px auto auto;
+    margin: auto auto auto auto;
     background: bisque;
     border-radius: 25px;
     border: 2px groove black;
-    padding: 20px;
-    height: 250px;
+    padding: 20px 20px 35px 20px;
+    height: 110px;
     width: 350px;
     box-shadow: 13px 13px 10px #888888;
 }
@@ -35,13 +37,13 @@ body {
     font-size: 15px;
     text-shadow: 1px 1px gray;
     background-color: beige;
-    float: right;
-    position: relative;
-    bottom: -15px;
-    right: -5px;
     display: block;
     cursor: pointer;
     transition: background-color 300ms;
+
+    position: absolute;
+    bottom: 20px;
+    right: 32px;
 }
 
 .auth input[type="submit"]:hover {
@@ -99,6 +101,8 @@ body {
     margin: auto;
     text-align: center;
     background: #1abc9c;
+
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
 }
 
 #headerimg {
@@ -112,8 +116,11 @@ body {
 
 .content
 {
+    position: absolute;
 
-
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .footer {
@@ -128,4 +135,7 @@ body {
 
     left: 0;
     right: 0;
+
+    /*border-top: 1px solid black;*/
+    box-shadow: 0 -5px 10px rgba(0, 0, 0, 0.5);
 }
