@@ -35,13 +35,12 @@ body {
     font-size: 15px;
     text-shadow: 1px 1px gray;
     background-color: beige;
-    float: right;
-    position: relative;
-    bottom: -15px;
-    right: -5px;
     display: block;
     cursor: pointer;
     transition: background-color 300ms;
+
+    position: absolute;
+    bottom: 10px;
 }
 
 .auth input[type="submit"]:hover {
@@ -112,8 +111,7 @@ body {
 
 .content
 {
-
-
+    position: relative;
 }
 
 .footer {
