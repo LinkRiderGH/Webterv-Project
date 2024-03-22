@@ -12,7 +12,7 @@ body {
     border-radius: 25px;
     border: 2px groove black;
     padding: 20px;
-    height: 250px;
+    height: 110px;
     width: 350px;
     box-shadow: 13px 13px 10px #888888;
 }
@@ -41,6 +41,7 @@ body {
 
     position: absolute;
     bottom: 10px;
+    right: 32px;
 }
 
 .auth input[type="submit"]:hover {
@@ -98,6 +99,8 @@ body {
     margin: auto;
     text-align: center;
     background: #1abc9c;
+
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
 }
 
 #headerimg {
@@ -111,7 +114,11 @@ body {
 
 .content
 {
-    position: relative;
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .footer {
@@ -126,4 +133,7 @@ body {
 
     left: 0;
     right: 0;
+
+    border-top: 3px solid #70d1a6;
+    box-shadow: 0 -5px 10px rgba(0, 0, 0, 0.5);
 }
