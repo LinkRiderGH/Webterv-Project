@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f732a9c-9b9b-4237-a821-44f7d57aee4b" name="Changes" comment="Deez not doing nuts" />
+    <list default="true" id="6f732a9c-9b9b-4237-a821-44f7d57aee4b" name="Changes" comment="Deez not doing nuts">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bojlerelado/forgotten.html" beforeDir="false" afterPath="$PROJECT_DIR$/bojlerelado/forgotten.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bojlerelado/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/bojlerelado/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +119,8 @@
       <workItem from="1711143097957" duration="192000" />
       <workItem from="1711143294172" duration="27000" />
       <workItem from="1711143323843" duration="17000" />
-      <workItem from="1711143342828" duration="9701000" />
+      <workItem from="1711143342828" duration="9814000" />
+      <workItem from="1711153957638" duration="323000" />
     </task>
     <task id="LOCAL-00001" summary="Deez not doing nuts">
       <option name="closed" value="true" />
@@ -285,7 +290,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711153474899</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711153825338</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1711153825338</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

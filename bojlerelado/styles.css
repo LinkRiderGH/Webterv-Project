@@ -141,11 +141,6 @@ body {
     padding: 10px 20px 0 45px;
 }
 
-.forgotten_p
-{
-    padding: 0 10px 10px 5px;
-}
-
 .forgotten_line_container
 {
     display: flex;
@@ -190,7 +185,7 @@ input[type="email"]::placeholder {
     cursor: pointer;
     transition: background-color 100ms;
 
-    margin-top: 20px;
+    /*margin-top: 20px;*/
 
     border-radius: 5px;
 }
@@ -214,7 +209,7 @@ input[type="email"]::placeholder {
     transition: background-color 100ms;
 
     border: none;
-    margin-top: 20px;
+    /*margin-top: 20px;*/
 }
 
 #forgotten_back:hover
