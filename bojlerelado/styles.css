@@ -67,9 +67,10 @@ body {
     padding: 20px;
     border: 1px solid black;
     border-radius: 10px;
-    margin: 0 10px;
+    margin: 10px auto;
     box-sizing: border-box;
     background-color: antiquewhite;
+    width: 80%
 }
 
 .header {
@@ -88,9 +89,28 @@ body {
     float: left;
 }
 
+.headerbuttons {
+    font-size: large;
+    text-decoration: none;
+    color: darkblue;
+}
+
+.headerbuttons:hover {
+    color: blue;
+}
+
+#headerbuttonsdiv {
+    justify-content: center;
+    display: flex;
+    gap: 2%;
+    margin-bottom: 10px;
+}
+
 .header h1 {
     font-size: 50px;
     margin-right: auto;
+    text-align: left;
+    max-font-size: 50px;
 }
 
 .forgotten_box_content
@@ -108,10 +128,9 @@ body {
     width: 80%;
     margin: auto;
     background: #1abc9c;
+    justify-content: space-between;
 
     bottom: 0;
-    position: fixed;
-
     left: 0;
     right: 0;
 
@@ -252,4 +271,16 @@ input[type="checkbox"] + label
     font-size: 15px;
 
     text-shadow: 0 1px gray;
+}
+
+#contact {
+    text-align: left;
+}
+
+#letsgo {
+    text-decoration: none;
+    color: darkblue;
+    font-size: x-large;
+    text-align: right;
+    margin: auto;
 }
