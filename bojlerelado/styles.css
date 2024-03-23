@@ -238,11 +238,9 @@ input::placeholder {
 
 input[type="checkbox"]
 {
-    min-width:13px;
-    height: 20px;
+    width: 50px;
+    height: 14px;
 
-    border: 0.25rem solid green;
-    border-radius: 0.5rem;
     box-shadow: 0 0 2px black;
 }
 
@@ -252,4 +250,17 @@ input[type="checkbox"] + label
     font-size: 15px;
 
     text-shadow: 0 1px gray;
+}
+
+.list_box_content
+{
+    position: absolute;
+
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+
+.Item
+{
+
 }
