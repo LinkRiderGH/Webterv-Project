@@ -13,37 +13,16 @@ body {
     background: bisque;
     border-radius: 25px;
     border: 2px groove black;
-    padding: 20px 20px 35px 20px;
-    height: 110px;
+    padding: 10px 20px 30px 20px;
+    height: auto;
     width: 350px;
-    box-shadow: 13px 13px 10px #888888;
-}
-
-.auth label {
-    font-size: x-large;
-    padding: 10px;
-    text-shadow: 1px 1px gray;
+    box-shadow: 10px 10px 10px #888888;
 }
 
 .auth input {
     padding: 10px;
     background: whitesmoke;
     width: 90%;
-}
-
-.auth input[type="submit"] {
-    width: 150px;
-    height: 40px;
-    font-size: 15px;
-    text-shadow: 1px 1px gray;
-    background-color: beige;
-    display: block;
-    cursor: pointer;
-    transition: background-color 300ms;
-
-    position: absolute;
-    bottom: 20px;
-    right: 32px;
 }
 
 .auth input[type="submit"]:hover {
@@ -114,7 +93,7 @@ body {
     margin-right: auto;
 }
 
-.content
+.forgotten_box_content
 {
     position: absolute;
 
@@ -125,7 +104,7 @@ body {
 
 .footer {
     padding: 10px;
-    height: 50px;
+    height: 100px;
     width: 100%;
     margin: auto;
     background: #1abc9c;
@@ -138,4 +117,120 @@ body {
 
     /*border-top: 1px solid black;*/
     box-shadow: 0 -5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.forgotten_button
+{
+    background-color: transparent;
+    color: #000000;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+    padding: 0 0 5px 0;
+
+    justify-content: space-between;
+}
+
+.forgotten_button_container
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px 0 45px;
+}
+
+.forgotten_p
+{
+    padding: 0 10px 10px 5px;
+}
+
+.forgotten_line_container
+{
+    display: flex;
+
+    padding: 0 0 10px 0;
+}
+
+.forgotten_line_left
+{
+    width: 50%;
+    height: 4px;
+    background-color: black;
+    margin-top: 6px;
+
+    border: none;
+}
+
+.forgotten_line_right
+{
+    width: 50%;
+    height: 2px;
+    background-color: black;
+
+    border: none;
+}
+
+input[type="email"]::placeholder {
+    font-family: "Verdana", sans-serif;
+    font-size: 15px;
+    text-shadow: 1px 1px gray;
+}
+
+#forgotten_send
+{
+    width: 150px;
+    height: 40px;
+    font-size: 15px;
+    text-shadow: 1px 1px gray;
+    background-color: beige;
+
+    display: block;
+    cursor: pointer;
+    transition: background-color 100ms;
+
+    margin-top: 20px;
+
+    border-radius: 5px;
+}
+
+#forgotten_send:hover
+{
+    background-color: white;
+}
+
+#forgotten_back
+{
+    width: 60px;
+    height: 40px;
+    font-size: 15px;
+    text-shadow: 1px 1px gray;
+    padding: 0;
+    background-color: transparent;
+
+    display: block;
+    cursor: pointer;
+    transition: background-color 100ms;
+
+    border: none;
+    margin-top: 20px;
+}
+
+#forgotten_back:hover
+{
+    background-color: rgba(255, 255, 255, 50%);
+}
+
+.forgotten_buttons_div
+{
+    display: flex;
+    justify-content: space-between;
+
+    padding-right: 10px;
+}
+
+.forgotten_h3
+{
+    padding-left: 5px;
 }

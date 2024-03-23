@@ -9,15 +9,37 @@
 <div class="header">
 
 </div>
-<div class="content">
+<div class="forgotten_box_content">
     <form class="auth" id="forgotten">
+        <div class="forgotten_button_container">
+            <button class="forgotten_button">Belépés</button>
+            <button class="forgotten_button" id="forgotten_right_button">Regisztráció</button>
+        </div>
+
+        <div class="forgotten_line_container">
+            <hr class="forgotten_line_left">
+            <hr class="forgotten_line_right">
+        </div>
+
+        <h3 class="forgotten_h3">Elfelejtett jelszó</h3>
+        <p class="forgotten_p">
+            Add meg a regisztrációhoz használt e-mail
+            címed, amelyre elküldjük a
+            jelszavad megváltoztatásához szükséges linket.
+        </p>
+
         <label>
-            E-mail cím:<br>
-            <input type="email">
+            <input type="email" placeholder="Email cím*">
         </label>
-        <label>
-            <input type="submit" value="Küldés">
-        </label>
+
+        <div class="forgotten_buttons_div">
+            <label>
+                <input type="submit" value="Vissza" id="forgotten_back">
+            </label>
+            <label>
+                <input type="submit" value="Email elküldése" id="forgotten_send" style="border-radius: 5px;">
+            </label>
+        </div>
     </form>
 </div>
 <div class="footer">
