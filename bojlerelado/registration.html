@@ -9,36 +9,56 @@
 <div class="header">
 
 </div>
-<div class="content">
-    <form class="auth" id="registration">
-        <label>
-            Felhasználónév:<br>
-            <input type="text">
-            <br><br>
-        </label>
-        <label>
-            Születési dátum:<br>
-            <input type="date">
-            <br><br>
-        </label>
-        <label>
-            E-mail cím:<br>
-            <input type="email">
-            <br><br>
-        </label>
-        <label>
-            Jelszó:<br>
-            <input type="password">
-            <br><br>
-        </label>
-        <label>
-            Jelszó mégegyszer:<br>
-            <input type="password">
-            <br><br>
-        </label>
-        <label>
-            <input type="submit" value="Regisztráció">
-        </label>
+<div class="forgotten_box_content">
+    <form class="auth">
+        <div class="forgotten_button_container">
+            <button class="forgotten_button" type="submit" formaction="login.html">Belépés</button>
+            <button class="forgotten_button" type="submit" formaction="registration.html">Regisztráció</button>
+        </div>
+
+        <div class="forgotten_line_container">
+            <hr class="forgotten_line_right">
+            <hr class="forgotten_line_left">
+        </div>
+
+        <h3 class="forgotten_h3">Regisztráció</h3>
+
+        <div style="margin-bottom: 15px;">
+            <label>
+                <input type="text" placeholder="Felhasználónév*">
+            </label>
+        </div>
+        <div style="margin-bottom: 15px;">
+            <label>
+                <input type="email" placeholder="Email cím*">
+            </label>
+        </div>
+        <div style="margin-bottom: 15px;">
+            <label>
+                <input type="password" placeholder="Jelszó*">
+            </label>
+        </div>
+        <div style="margin-bottom: 15px;">
+            <label>
+                <input type="password" placeholder="Jelszó megerősítése*">
+            </label>
+        </div>
+        <div class="register_checkboxes">
+            <input type="checkbox" id="myCheckbox">
+            <label for="myCheckbox">
+                Feliratkozom a "Bojler eladó" hírlevelére,
+                szeretnék személyre szabott ajánlatokat
+                és promóciókat kapni! Hozzájárulok,
+                hogy e-maileket kapjak az Adatvédelmi
+                Tájékoztatónak megfelelően.
+            </label>
+
+        </div>
+        <div style="margin-bottom: 15px;">
+            <label>
+                <input type="button" value="Regisztráció">
+            </label>
+        </div>
     </form>
 </div>
 <div class="footer">
