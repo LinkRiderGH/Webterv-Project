@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f732a9c-9b9b-4237-a821-44f7d57aee4b" name="Changes" comment="Deez not doing nuts" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/Link" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="2a5390902f89eac4b9fe9543087886e98027afa9" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="LinkRiderGH" />
+        <option name="repository" value="Webterv-Project" />
+      </RepoCoordinatesHolder>
+    </option>
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6e3483ca-dfcc-479d-b642-c57cf084c807" />
+        <option name="url" value="https://github.com/LinkRiderGH/Webterv-Project.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2e3HJ16ifLLCqavnHh9f7u4aaky" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Webterv-Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Webterv-Project" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f732a9c-9b9b-4237-a821-44f7d57aee4b" name="Changes" comment="" />
+      <created>1711126265802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711126265802</updated>
+      <workItem from="1711126267132" duration="5333000" />
+      <workItem from="1711142601516" duration="306000" />
+      <workItem from="1711142922657" duration="160000" />
+      <workItem from="1711143097957" duration="192000" />
+      <workItem from="1711143294172" duration="27000" />
+      <workItem from="1711143323843" duration="17000" />
+      <workItem from="1711143342828" duration="9701000" />
+    </task>
+    <task id="LOCAL-00001" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711127605158</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711127605158</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711127675602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711127675602</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711127697501</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711127697501</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711128685793</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711128685793</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711129063585</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711129063585</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711129068309</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711129068309</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711129106657</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711129106657</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711129658238</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711129658238</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711129746720</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711129746720</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711130001766</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711130001766</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711130126825</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711130126825</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711130137861</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711130137861</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711130173433</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1711130173433</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711130202824</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1711130202824</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711130444062</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1711130444062</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711131668909</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1711131668909</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711131709118</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1711131709118</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711131736721</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1711131736721</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711131799916</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1711131799916</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711143384067</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1711143384067</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711153474899</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1711153474899</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Deez not doing nuts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deez not doing nuts" />
+  </component>
+</project>
