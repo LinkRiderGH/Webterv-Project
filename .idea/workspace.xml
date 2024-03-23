@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6f732a9c-9b9b-4237-a821-44f7d57aee4b" name="Changes" comment="Deez not doing nuts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bojlerelado/forgotten.html" beforeDir="false" afterPath="$PROJECT_DIR$/bojlerelado/forgotten.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bojlerelado/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/bojlerelado/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bojlerelado/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/bojlerelado/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +122,7 @@
       <workItem from="1711143342828" duration="9814000" />
       <workItem from="1711153957638" duration="396000" />
       <workItem from="1711155439154" duration="10000" />
-      <workItem from="1711195757257" duration="4827000" />
+      <workItem from="1711195757257" duration="6186000" />
     </task>
     <task id="LOCAL-00001" summary="Deez not doing nuts">
       <option name="closed" value="true" />
@@ -318,7 +316,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711154346651</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Deez not doing nuts">
+      <option name="closed" value="true" />
+      <created>1711201414147</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1711201414147</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
