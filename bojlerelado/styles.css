@@ -131,7 +131,7 @@ body {
     margin: 5px;
     padding: 0 0 5px 0;
 
-    justify-content: space-between;
+    text-shadow: 1px 1px gray;
 }
 
 .forgotten_button_container
@@ -144,8 +144,6 @@ body {
 .forgotten_line_container
 {
     display: flex;
-
-    padding: 0 0 10px 0;
 }
 
 .forgotten_line_left
@@ -168,6 +166,12 @@ body {
 }
 
 input[type="email"]::placeholder {
+    font-family: "Verdana", sans-serif;
+    font-size: 15px;
+    text-shadow: 1px 1px gray;
+}
+
+input[type="password"]::placeholder {
     font-family: "Verdana", sans-serif;
     font-size: 15px;
     text-shadow: 1px 1px gray;
@@ -228,4 +232,5 @@ input[type="email"]::placeholder {
 .forgotten_h3
 {
     padding-left: 5px;
+    text-shadow: 1px 1px gray;
 }

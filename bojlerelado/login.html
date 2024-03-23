@@ -9,28 +9,40 @@
 <div class="header">
 
 </div>
-<div class="content">
-    <form class="auth" id="login">
+<div class="forgotten_box_content">
+    <form class="auth">
+        <div class="forgotten_button_container">
+            <button class="forgotten_button" type="submit" formaction="login.html">Belépés</button>
+            <button class="forgotten_button" type="submit" formaction="registration.html">Regisztráció</button>
+        </div>
+
+        <div class="forgotten_line_container">
+            <hr class="forgotten_line_left">
+            <hr class="forgotten_line_right">
+        </div>
+
+        <h3 class="forgotten_h3">Belépés</h3>
+
+        <div style="margin-bottom: 25px;">
+            <label>
+                <input type="email" placeholder="Email cím*">
+            </label>
+        </div>
         <label>
-            Felhasználónév:<br>
-            <input type="text">
-            <br><br>
+            <input type="password" placeholder="Jelszó*">
         </label>
-        <label>
-            Jelszó:<br>
-            <input type="password">
-            <br><br>
-        </label>
-        <a href="forgotten.html" class="links">Elfelejtettem a jelszavam</a>
-        <br>
-        <a href="registration.html" class="links" id="registerbutton">Regisztráció</a>
-        <label>
-            <input type="submit" value="Bejelentkezés">
-        </label>
+
+        <div class="forgotten_buttons_div" style="margin-top: 25px">
+            <a href="forgotten.html" class="links" style="width: 300px">Elfelejtett jelszó</a>
+            <label>
+                <input type="button" value="Belépés" id="forgotten_send" style="width: 100px">
+            </label>
+        </div>
     </form>
 </div>
+
 <div class="footer">
-<p></p>
+
 </div>
 </body>
 </html>
